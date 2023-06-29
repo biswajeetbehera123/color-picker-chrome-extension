@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://chrome.google.com/webstore/detail/vibrant-color-dropper-pic/fcekakhpgmlaihglgajajbceajnhlgfn?hl=en&authuser=0">
-    <img src="https://github.com/getlost01/color-picker-updated/blob/56b980e35fde2caec13a8167551b34473f847449/images/clogo.png" height="96">
-    <h3 align="center">Vibrant Color Dropper & Picker</h3>
+    <h3 align="center">Color Picker Extension</h3>
   </a>
 </p>
 
@@ -9,7 +8,6 @@
 ----
 > A color picker tool that extracts every pixel from the current screen and also saves recently used colors.
 </br>
-Visit this extension  <a href="https://chrome.google.com/webstore/detail/vibrant-color-dropper-pic/fcekakhpgmlaihglgajajbceajnhlgfn?hl=en&authuser=0">here</a>
 
 ----
 
@@ -36,16 +34,9 @@ Visit this extension  <a href="https://chrome.google.com/webstore/detail/vibrant
 - A user-friendly and simple interface, just click on the color box or clickable hex code to copy hex value.
 
 ### Support 
-This extension has only been supported on Chrome / Edge-based web browsers.
-
-### Preview
-<img width="500" alt="" src=https://github.com/getlost01/temp/blob/0a38407bae08ec5bac9aa78329d514d8f5558c3b/colorpicker/home.png>
-<img width="500" alt="" src=https://github.com/getlost01/temp/blob/0a38407bae08ec5bac9aa78329d514d8f5558c3b/colorpicker/playground.png>
-<img width="500" alt="" src=https://github.com/getlost01/temp/blob/0a38407bae08ec5bac9aa78329d514d8f5558c3b/colorpicker/save%2050.png>
-<img width="500" alt="" src=https://github.com/getlost01/temp/blob/0a38407bae08ec5bac9aa78329d514d8f5558c3b/colorpicker/color%20grader.png>
+This extension has only been supported on Chrome/ Brave/ Edge-based web browsers.
 
 
------
 
 ### :v: Contributing
 
@@ -64,5 +55,5 @@ Great!, after cloning & setting up the local project and making updates then you
 
 <p align="center">
 Give the extension a :star: if you liked it.<br>
-Made with :heart: and javascript.
+Made with javascript.
 </p>
