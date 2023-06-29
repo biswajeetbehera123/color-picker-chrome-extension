@@ -38,19 +38,26 @@ This extension has only been supported on Chrome/ Brave/ Edge-based web browsers
 
 
 
-### :v: Contributing
+## Follow Below Steps to use this Extension
 
-#### Step 1: Clone The Repo
+1. Download .zip  and extract file
+[Zip Download](/Color_picker_extension.zip) or Clone repository to your local system.
 
-Fork the repository and then clone the repo locally by -
-```bash
-git clone https://github.com/getlost01/color-picker-updated.git
-```
-#### Step 2: Install Dependencies
-Visit brave://extensions , in developement mode test your updates.<br>
+    ```
+    git clone git@github.com:codeAlok/color-picker-chrome-extension.git
+    ```
 
-Great!, after cloning & setting up the local project and making updates then you can push the changes to your GitHub fork and make a pull request.
-
+2. Open **Google Chrome**
+3. Go to **settings**
+4. Select **Extensions** tab
+5. Turn on **Developer mode**
+    ![Screenshot (27)](https://user-images.githubusercontent.com/82399781/210152293-c8168f7b-4699-4785-990a-a989d56834f7.jpg)
+6. Click on **Load unpacked**
+    ![Screenshot (28)](https://user-images.githubusercontent.com/82399781/210152310-757b0ed6-6bad-4728-bb0c-375a41d45985.jpg)
+7. Select **color-picker-chrome-extension** folder
+    ![download (1)](https://user-images.githubusercontent.com/82399781/210152496-75f7e665-040e-4d27-a2cf-00f27392c504.png)
+8. Enable This Extension (if Disabled).
+9. Now open any **tab other than google setting/home page**.
 -----
 
 <p align="center">
