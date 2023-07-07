@@ -43,7 +43,7 @@ This extension has only been supported on Chrome/ Brave/ Edge-based web browsers
 1. Clone repository to your local system.
 
     ```
-    git clone [git@github.com:biswajeetbehera123/color-picker-chrome-extension.git](https://github.com/biswajeetbehera123/color-picker-chrome-extension.git)
+    git clone https://github.com/biswajeetbehera123/color-picker-chrome-extension.git
     ```
 
 2. Open **Google Chrome**
