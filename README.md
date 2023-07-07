@@ -40,11 +40,10 @@ This extension has only been supported on Chrome/ Brave/ Edge-based web browsers
 
 ## Follow Below Steps to use this Extension
 
-1. Download .zip  and extract file
-[Zip Download](/Color_picker_extension.zip) or Clone repository to your local system.
+1. Clone repository to your local system.
 
     ```
-    git clone git@github.com:codeAlok/color-picker-chrome-extension.git
+    git clone [git@github.com:biswajeetbehera123/color-picker-chrome-extension.git](https://github.com/biswajeetbehera123/color-picker-chrome-extension.git)
     ```
 
 2. Open **Google Chrome**
